@@ -1,0 +1,13 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Featured icon">
+<rect width="64" height="64" rx="32" fill="#F8B15B"/>
+<g id="chat_bubble">
+<mask id="mask0_6726_530" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="17" y="17" width="29" height="29">
+<rect id="Bounding box" x="17.8654" y="17.9012" width="28" height="28" fill="#D9D9D9"/>
+</mask>
+<g mask="url(#mask0_6726_530)">
+<path id="chat_bubble_2" d="M20.1987 43.5679V22.5679C20.1987 21.9262 20.4272 21.3769 20.8841 20.9199C21.3411 20.463 21.8904 20.2345 22.5321 20.2345H41.1987C41.8404 20.2345 42.3897 20.463 42.8466 20.9199C43.3036 21.3769 43.5321 21.9262 43.5321 22.5679V36.5679C43.5321 37.2095 43.3036 37.7588 42.8466 38.2158C42.3897 38.6727 41.8404 38.9012 41.1987 38.9012H24.8654L20.1987 43.5679ZM23.8737 36.5679H41.1987V22.5679H22.5321V37.8804L23.8737 36.5679Z" fill="white"/>
+</g>
+</g>
+</g>
+</svg>
